@@ -4,14 +4,15 @@
 
 ### Linguagens
 
-* [Java Script](https://github.com/murilomunhao/codes/tree/main/js) 
+* [Java Script](https://github.com/murilomunhao/codes/tree/master/codes/js) 
 
 
 ### Outros
 
-* [GoogleSites + FormEgoi](https://github.com/murilomunhao/codes/tree/main/google-sites-egoi)
+* [GoogleSites + FormEgoi](https://github.com/murilomunhao/codes/tree/master/google-sites-egoi)
 
 #### *********************************************************
 
 ####Faça-me uma doação!
+
 [![](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=T4ZWGJ7HPHK5A)
