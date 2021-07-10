@@ -75,7 +75,7 @@ app.prepare().then(() => {
 
 ### Iniciando o servidor https
 <p>Agora edite seu arquivo **package.json** incluindo o comando abaixo </p>
-```json
+```yaml
 "scripts": {
   "start": "node server.js"
 },
