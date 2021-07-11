@@ -11,8 +11,9 @@
 
 * [GoogleSites + FormEgoi](https://github.com/murilomunhao/codes/tree/master/google-sites-egoi)
 
-#### *********************************************************
 
-#### Faça-me uma doação!
 
+
+####******************************************************
+** Se este repositório te ajuda ou ajudou de alguma forma, considere nos fazer uma doação**
 [![](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=T4ZWGJ7HPHK5A)
