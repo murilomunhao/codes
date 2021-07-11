@@ -18,9 +18,11 @@ Crie um certificado com OpenSSL usando este comando.
 
 openssl req -x509 -out localhost.crt -keyout localhost.key \ -days 365 \ -newkey rsa:2048 -nodes -sha256 \
   -subj '/CN=localhost' -extensions EXT -config <( \
-   printf "[dn]\nCN=localhost\n[req]\ndistinguished_name = dn\n[EXT]\nsubjectAltName=DNS:localhost\nkeyUsage=digitalSignature\nextendedKeyUsage=serverAuth")	
+   printf "[dn]\nCN=localhost\n[req]\ndistinguished_name = 
+	 dn\n[EXT]\nsubjectAltName=DNS:localhost\nkeyUsage=digitalSignature\nextendedKeyUsage=serverAuth")	
 
-```.
+```
+
 O comando acima vai gerar o certificado e a chave:.
 
 * __req__ comando para criar certificados
@@ -78,10 +80,10 @@ app.prepare().then(() => {
   });
 });
 
-```.
+```
 
 ### Iniciando o servidor https
-Agora edite seu arquivo **package.json** incluindo o comando abaixo
+Agora edite seu arquivo **package.json** incluindo o comando abaixo.
 
 ```json
 
@@ -93,7 +95,7 @@ Agora edite seu arquivo **package.json** incluindo o comando abaixo
 
 
 ### Execute o servidor
-Você pode chamar o servidor https com o comando **npm run start** 
+Você pode chamar o servidor https com o comando **npm run start**.
 
 
 > Este documento foi inspirado no tutorial de [**Greg Farrow**](https://medium.com/responsetap-engineering/nextjs-https-for-a-local-dev-server-98bb441eabd7).
