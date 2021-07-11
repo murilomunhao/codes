@@ -91,14 +91,13 @@ Agora edite seu arquivo **package.json** incluindo o comando abaixo.
   "start": "node server.js"
 },
 
-```.
-
+```
 
 ### Execute o servidor
 Você pode chamar o servidor https com o comando **npm run start**.
 
 
-> Este documento foi inspirado no tutorial de [**Greg Farrow**](https://medium.com/responsetap-engineering/nextjs-https-for-a-local-dev-server-98bb441eabd7).
+> Este documento foi inspirado no tutorial de [**Greg Farrow**](https://medium.com/responsetap-engineering/nextjs-https-for-a-local-dev-server-98bb441eabd7)
 
 
 
@@ -112,7 +111,7 @@ Você pode chamar o servidor https com o comando **npm run start**.
 
 
 
-####****************************************
+#### ****************************************
 **Se este repositório te ajuda ou ajudou de alguma forma, considere nos fazer uma doação**.
 [![](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=T4ZWGJ7HPHK5A)
 
