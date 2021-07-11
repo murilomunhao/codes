@@ -4,7 +4,7 @@
 
 ### Linguagens
 
-* [Java Script](https://github.com/murilomunhao/codes/tree/master/codes/js) 
+* [Java Script](https://github.com/murilomunhao/codes/tree/master/js) 
 
 
 ### Outros
